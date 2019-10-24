@@ -1,12 +1,12 @@
 // 1: Set the text of the <h1> element
-document.querySelector('h1').innerHTML = "<i>bucket list</p>"
+const title = document.querySelector('h1').innerHTML = "bucket list"
 
 // 2: Set the color of the <h1> to a different color
-
+title.style.color ='red';
 
 // 3: Set the content of the '.desc' paragraph
 // The content should include at least one HTML tag
-const desc = document.querySelector(".desc")
+ document.querySelector(".desc")
 
 // 4: Set the class of the <ul> to 'list'
 
