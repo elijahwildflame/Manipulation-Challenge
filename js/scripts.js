@@ -1,5 +1,5 @@
 // 1: Set the text of the <h1> element
-
+document.querySelector('h1').textContent = "bucket list"
 
 // 2: Set the color of the <h1> to a different color
 
