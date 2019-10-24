@@ -6,7 +6,7 @@
 
 // 3: Set the content of the '.desc' paragraph
 // The content should include at least one HTML tag
-
+const desc = document.querySelector(".desc")
 
 // 4: Set the class of the <ul> to 'list'
 
