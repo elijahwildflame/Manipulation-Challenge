@@ -12,6 +12,7 @@
 
 
 // 5: Create a new list item and add it to the <ul>
+    <li>go to Paris</li>
 
 
 // 6: Change all <input> elements from text fields to checkboxes
