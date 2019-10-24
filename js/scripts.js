@@ -1,5 +1,5 @@
 // 1: Set the text of the <h1> element
-document.querySelector('h1').textContent = "bucket list"
+document.querySelector('h1').innerHTML = "<i>bucket list</p>"
 
 // 2: Set the color of the <h1> to a different color
 
